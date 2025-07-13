@@ -5,6 +5,7 @@
 /besu/besu-data/caches/*
 /besu/besu-data/database/*
 /besu/besu-data/key
+!/besu-data/.gitkeep
 
 # Hardhat compile and deployments
 /hardhat/artifacts/*
