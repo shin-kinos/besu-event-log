@@ -1,6 +1,13 @@
 # besu-event-log
 A simple demo for a smart contract's event that stores several variables and collects their logs.  
 
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/fbf5ffa8-8621-4d2d-b056-34b943f81f82"
+    width="80%"
+  >
+</div>
+
 ## Requirements
 
 * Hyperledger Besu (v24.5.x)
@@ -114,5 +121,12 @@ The app will start running with the host/port at `http://localhost:3000` by defa
 ### 5. Connect to the Besu private net via crypt wallet
 
 Register your Besu private net onto your crypt wallet - this is an example of MetaMask wallet adding a new custom network: you will set your network's 1) network name, 2) RPC URL, 3) chain ID and 4) currency symbol:
+
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/ec7f6e88-3a20-4a02-a8b7-b3cd48048e6f"
+    width="45%"
+  >
+</div>
 
 Once you set your Besu private net, your wallet can connet to the smart contract by clicking the fox logo at top of the page🦊
